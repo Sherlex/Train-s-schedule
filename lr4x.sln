@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lr4x", "lr4x\lr4x.csproj", "{CB1A9C1A-23DA-4CDF-B3C0-4A08644818AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lr4xTests", "lr4xTests\lr4xTests.csproj", "{E3E6CCB3-CB10-4119-B48A-6437432DDD07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB1A9C1A-23DA-4CDF-B3C0-4A08644818AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1A9C1A-23DA-4CDF-B3C0-4A08644818AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1A9C1A-23DA-4CDF-B3C0-4A08644818AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1A9C1A-23DA-4CDF-B3C0-4A08644818AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E6CCB3-CB10-4119-B48A-6437432DDD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E6CCB3-CB10-4119-B48A-6437432DDD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E6CCB3-CB10-4119-B48A-6437432DDD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E6CCB3-CB10-4119-B48A-6437432DDD07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7E57F94-E74B-4EB2-A141-E8011D03191E}
+	EndGlobalSection
+EndGlobal
